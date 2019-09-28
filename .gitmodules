@@ -1,0 +1,4 @@
+[submodule "airitos/alien"]
+	path = airitos/alien
+	url = git@github.com:airitos/alien.git
+	branch = master
